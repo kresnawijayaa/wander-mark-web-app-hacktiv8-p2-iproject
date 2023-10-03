@@ -12,4 +12,4 @@ The Wander Mark Web App is a social media website designed for users to tag and 
 
 ## Preview Application
 
-You can preview the Wander Mark Web App by clicking on the following link: [Preview Application](https://drive.google.com/drive/folders/1uf30dFfg64U7g5GFvNdJt82siEYgclu6?usp=sharing)
+Screenshot Application: [Link to Screenshot Folder](https://drive.google.com/drive/folders/1uf30dFfg64U7g5GFvNdJt82siEYgclu6?usp=sharing)
